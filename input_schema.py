@@ -6,7 +6,7 @@ INPUT_SCHEMA = {
         'example': ["Penguins having dinner"]
     },
     "num_inference_steps": {
-        'datatype': 'INT',
+        'datatype': 'INT8',
         'required': True,
         'shape': [1],
         'example': [40]
