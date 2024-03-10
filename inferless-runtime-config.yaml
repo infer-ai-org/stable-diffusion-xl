@@ -12,4 +12,4 @@ build:
     - "accelerate==0.23.0"
     - "safetensors==0.4.0"
     - "invisible-watermark==0.2.0"
-    - "xformers==0.0.16"
+    - "xformers==0.0.24"
